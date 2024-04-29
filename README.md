@@ -1,9 +1,7 @@
 # WebServer Project
 
-Welcome to my Python Project!
+In this project, I have designed python code that will create a basic web server using the HTTP.server library called from a function. 
 
-In this project, I have designed python code that will create a basic web server using the HTTP.server module.
-
-This project can be used for a intro to programming class or for any other use.
+This project is great for an intro to programming course.
 
 Drafted by Andrew Euler.
