@@ -4,6 +4,6 @@ In this project, I have designed python code that will create a basic web server
 
 The serve.forever() function ensures peristent uptime.
 
-This project is great for an intro to programming cs course or to learn how Python is utilized in everyday use.
+This project is great for an intro to programming cs course or to learn how Python is utilized in everyday use (recommend user have some basic knowledge of the Python lanugage, particularly functions and what libraries are).
 
 Drafted by Andrew Euler.
